@@ -1,5 +1,5 @@
 
-# Piedra, Papel o Tijera 🪨📄✂️
+# Piedra, Papel o Tijera 
 
 Este es un juego creado en **Python** como trabajo de lógica de programación. El jugador escoge entre piedra, papel o tijera, y la computadora elige aleatoriamente.
 
@@ -16,3 +16,6 @@ Este es un juego creado en **Python** como trabajo de lógica de programación. 
 4. Si el jugador ingresa un número no válido, el juego muestra un mensaje de error.
 
 ---
+
+link del video 
+https://mailinternacionaledu-my.sharepoint.com/:v:/g/personal/alascaniore_uide_edu_ec/ETE2s4IkedhPo1A8F08cj68BLAlV4AjRiSKhbcW70nVQ8g?e=N0Cl6J&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
