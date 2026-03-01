@@ -1,3 +1,0 @@
-Link de la presentación
-
-https://mailinternacionaledu-my.sharepoint.com/:v:/g/personal/alascaniore_uide_edu_ec/IQCXmXBkbTBLQo7Ny-33feDxAcjiGfXQVxiy0IJgFV0lBnw?e=AOuLza&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
